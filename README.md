@@ -72,7 +72,7 @@ a aplicação web.
 # Testando o jogo
 Estando no diretório raiz do projeto */pratin-soccer* execute
 ```
-pipenv run python pratin-soccer
+pipenv run python pratin-soccer.py
 ```
 Agora é só jogar...
 
