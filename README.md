@@ -18,7 +18,7 @@ Antes de configurar o ambiente virtual para o projeto, primeiro deve-se ter clon
 o repositório no github para sua máquina local e entrar na pasta raiz do projeto.
 
 ```
-https://github.com/marvincorreia/pratin-soccer.git
+git clone https://github.com/marvincorreia/pratin-soccer.git
 cd pratin-soccer
 ```
 
